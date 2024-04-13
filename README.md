@@ -1,2 +1,3 @@
 # LwM
-Learn with Mia. 跟小羽一起玩编程。
+Learn with Mia. 
+跟小羽一起学习。
